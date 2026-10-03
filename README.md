@@ -1,0 +1,1 @@
+Tips code in MySQL
